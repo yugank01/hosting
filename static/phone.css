@@ -1,0 +1,105 @@
+#navbar{
+    flex-direction: column;
+}
+
+#navbar ul{
+    padding-top: 15px;
+}
+
+#navbar li a{
+    font-size: 12px;
+    padding: 5px;
+}
+
+#logo{
+    font-size: 10px;
+}
+
+#logo img{
+    height: 45px;
+}
+
+#introSection{
+    font-size: 25px;
+}
+
+#introSection div.small{
+    font-size: 18px;
+}
+
+#Missionsection{
+    height: 800px;
+}
+
+#Missionsection h2{
+    font-size: 33px;
+}
+
+.contain{
+    flex-direction: column;
+}
+
+.card{
+    width: 90%;
+    height: 210px;
+    margin: 8px 0px;
+}
+
+.card h3{
+    font-size: 20px;
+}
+
+.card-img{
+    height: 120px;
+}
+
+.card-content p{
+    font-size: 15px;
+}
+
+#sponsorSection{
+    height: 335px;
+}
+
+#sponsorSection h2{
+    font-size: 33px;
+}
+
+#sponsors{
+    flex-wrap: wrap;
+    margin: 10px auto;
+}
+
+.spimage{
+    height: 35%;
+    margin: 10px;
+    transition: all 0.5s ease-in-out;
+}
+
+.spimage:hover{
+    height: 50%;
+    border-radius: 34px;
+}
+
+#footer{
+    height: 45px;
+    font-size: 12px;
+}
+
+.myInput{
+    width: 80%;
+    padding: 6px;
+    margin: 3px;
+    font-size: 12px;
+}
+
+h1{
+    font-size: 30px;
+}
+
+.btn{
+    padding: 3px 20px;
+    font-size: 15px;
+    margin: 10px;
+    border-radius: 20px;
+}

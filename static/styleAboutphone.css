@@ -1,0 +1,28 @@
+#Section{
+    height: 2650px;
+}
+
+.about{
+    font-size: 25px;
+}
+
+.aboutcontain{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.aboutcard{
+    width: 85%;
+    margin: 15px 25px;
+    height: 300px;
+}
+
+.aboutcard h3{
+    font-size: 20px;
+}
+
+.aboutcard-content p{
+    font-size: 17px;
+}
